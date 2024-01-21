@@ -1,0 +1,2 @@
+Started,Finished,DurationSec,FromStopId,ToStopId,ChargeAmount,HashedPan,Status
+"16-05-2023 12:15:00","16-05-2023 12:25:00",600,StopA,StopB,4.5,"6442fd73a940c1186d6268bd27f89233e12429902c7805037e8aab6e717be6d9",COMPLETE
